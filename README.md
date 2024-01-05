@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mirelle
-- 👀 I’m interested in C++ and Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 📫 If you want to reach me, you can send me an e-mail at mirelle.sv.vieira@gmail.com
